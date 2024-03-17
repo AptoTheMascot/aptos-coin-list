@@ -1639,4 +1639,25 @@ export const REQUESTS: RawCoinInfo[] = [
     source: "native",
     permissioned_listing: true,
   },
+{
+    name: "Apto The Mascot",
+    symbol: "APTO",
+    official_symbol: "APTO",
+    coingecko_id: "https://www.geckoterminal.com/aptos/pools/f17ae370-1bc5-4ddc-93c5-b70804809493",
+    decimals: 8,
+    logo_url: "https://ibb.co/G2Fjf6T",
+    project_url: "https://aptothemascot.com/",
+    token_type: {
+      type: "0x4c71c33b9ec2f263a7f25779bd9a2531165d4da9a963e042a20f288688094a66::APTO_THE_MASCOT::APTO_THE_MASCOT,
+      account_address: "0x4c71c33b9ec2f263a7f25779bd9a2531165d4da9a963e042a20f288688094a66",
+      module_name: "APTO",
+      struct_name: "APTO"
+    },
+    extensions: {
+      data: []
+    },
+    unique_index: 666,
+    source: "native",
+    permissioned_listing: true,
+  },
 ];
