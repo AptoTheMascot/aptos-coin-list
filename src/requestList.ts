@@ -1957,3 +1957,26 @@ export const REQUESTS: RawCoinInfo[] = [
     "pancake_symbol": "NBUL"
   }
 ];
+ "name": "Apto The Mascot",
+    "symbol": "APTO",
+    "official_symbol": "APTO",
+    "coingecko_id": "",
+    "decimals": 8,
+    "logo_url": "https://ibb.co/Ky2B83B",
+    "project_url": "https://aptothemascot.com",
+    "token_type": {
+      "type": "0x4c71c33b9ec2f263a7f25779bd9a2531165d4da9a963e042a20f288688094a66::APTO_THE_MASCOT::APTO_THE_MASCOT",
+      "account_address": "0x4c71c33b9ec2f263a7f25779bd9a2531165d4da9a963e042a20f288688094a66",
+      "module_name": "APTO",
+      "struct_name": "AptoTheMascot"
+    },
+    "extensions": {
+      "data": []
+    },
+    "unique_index": 425,
+    "source": "native",
+    "permissioned_listing": false,
+    "hippo_symbol": "APTO",
+    "pancake_symbol": "APTO"
+  }
+];
